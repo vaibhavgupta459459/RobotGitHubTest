@@ -5,7 +5,7 @@ Variables    ../Variables/TestVariables.py
 
 *** Test Cases ***
 Test1
-    Log    This is Test1
+    Log    This is Test11
 
 Test2
     Print User Detail
